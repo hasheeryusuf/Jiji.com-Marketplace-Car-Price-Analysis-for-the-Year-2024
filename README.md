@@ -224,4 +224,5 @@ Reinforce Electric Car Listings: These are becoming more attractive due to reduc
 ## Conclusion
 
 This analysis confirms that car pricing on the Jiji.com platform is influenced by a combination of factors—most notably mileage, ownership history, and brand reputation. Vehicles with low mileage, fewer owners, and strong brand presence consistently achieve higher resale values. These insights empower dealerships, manufacturers, and buyers to make strategic, data-informed decisions on pricing, procurement, and inventory planning, ensuring better market alignment and profitability.
-https://i.postimg.cc/zXqKnX7n/TASK-14B.png
+
+![](https://i.postimg.cc/zXqKnX7n/TASK-14B.png)
